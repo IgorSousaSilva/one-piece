@@ -12,4 +12,4 @@ Projeto one piece, é uma landing page onde você cliclar, sobre as bandeiras de
 [<img src="./src/imagens/one-piece-mobile.gif" alt="tela gif">]
 
 ## Link
-(https://igorsousasilva.github.io/x-men/)
+(https://igorsousasilva.github.io/one-piece/)
